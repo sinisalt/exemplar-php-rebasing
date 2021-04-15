@@ -21,6 +21,8 @@ _Comparison of rebasing and merging_
 
 ## Goals
 
+You should end up with a single consolidated readme file - this will generate conflicts that need will resolving! 
+
 In each of the branches you will find an edited readme with instructions for the rebase task, complete each task using `rebase` then `merge` these updated changes back to the trunk. Once complete submit a pull request to this repository and assign to your line manager for review!
 
 ## Instructions
