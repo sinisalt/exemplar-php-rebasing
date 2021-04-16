@@ -41,11 +41,15 @@ The commit history should resemble the following
 
 ![image](https://user-images.githubusercontent.com/248916/114893685-de81b680-9e05-11eb-9ed1-85c0370f5c14.png)
 
+# Add branch readme instruction segments (from merge conflicts) here:
+
+_REMOVE_THIS_PLACEHOLDER_
+
 # EXERCISE 2
 
 Fork the repository below and follow the instructions. This time, once complete, share the forked repository with your line manager for review!
 
-[https://github.com/coralieco/workshop-git-rebase](https://github.com/coralieco/workshop-git-rebase)
+[https://github.com/lineten/exemplar-workshop-git-rebase](https://github.com/lineten/exemplar-workshop-git-rebase)
 
 
 
